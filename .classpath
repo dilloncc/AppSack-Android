@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="endpoint-libs/libappideachangelogendpoint-v1/appideachangelogendpoint/appideachangelogendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libappideaendpoint-v1/appideaendpoint/appideaendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libappideavoteendpoint-v1/appideavoteendpoint/appideavoteendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libcategoryendpoint-v1/categoryendpoint/categoryendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/deviceinfoendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libmessageEndpoint-v1/messageEndpoint/messageendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libuserchangelogendpoint-v1/userchangelogendpoint/userchangelogendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libuserendpoint-v1/userendpoint/userendpoint-v1-generated-source"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
